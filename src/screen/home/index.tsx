@@ -14,7 +14,7 @@ const Home: React.FC = () => {
       <SoftSkills />
       <HomeServices />
       <MyWorkExperience />
-      <div className='text-center text-black text-4xl'>asdasd</div>
+      <div className='text-center text-black text-4xl'>Rajnikant</div>
     </ScrollContainer>
   );
 };
